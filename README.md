@@ -12,130 +12,23 @@ Researchers, practitioners, educators, developers, and students are invited to a
 
 ---
 
-## Discussion Categories
+## Community Discussions
 
-### 📢 Announcements
+Join the conversation, share experiences, ask questions, and collaborate with the international FRAM community.
 
-Official news, updates, releases, event information, and important announcements from the FRAMily community.
+| Discussion Space | Description |
+|------------------|-------------|
+| 📢 [Announcements](https://github.com/FRAMily-Community/framily-community/discussions/categories/announcements) | Official community updates, events, software releases, and important news. |
+| 🎓 [Teaching & Learning](https://github.com/FRAMily-Community/framily-community/discussions/categories/teaching-learning) | Questions and answers on teaching FRAM, educational resources, exercises, and training material. |
+| 💻 [Software & Tools](https://github.com/FRAMily-Community/framily-community/discussions/categories/software-tools) | Questions and answers on FRAM software, technical support, and tool development. |
+| 🧩 [Model Showcase](https://github.com/FRAMily-Community/framily-community/discussions/categories/model-showcase) | Share FRAM models, case studies, examples, and practical applications from different domains. |
+| 🔬 [Research](https://github.com/FRAMily-Community/framily-community/discussions/categories/research) | Discuss research findings, publications, methodologies, and scientific developments related to FRAM and resilience engineering. |
+| 🤝 [Collaborations](https://github.com/FRAMily-Community/framily-community/discussions/categories/collaborations) | Research collaborations, project partnerships, student projects, and PhD opportunities. |
+| 💡 [Ideas & Future Directions](https://github.com/FRAMily-Community/framily-community/discussions/categories/ideas-future-directions) | Community development ideas, future activities, and FRAM research directions. |
+| 🌍 [General Discussion](https://github.com/FRAMily-Community/framily-community/discussions/categories/general-discussion) | Open discussions, experiences, and community exchange. |
 
-Use this category to follow developments across the community, including information about FRAMily Meetings, FRAM Fridays, the FRAM Summer School, software releases, new resources, and other community initiatives.
-
-[View Announcements](https://github.com/FRAMily-Community/framily-community)
-
-### 🤝 Collaborations
-
-Connect with researchers, practitioners, educators, developers, and students from across the international FRAM community.
-
-Use this category to:
-
-- Find collaborators and project partners
-- Share calls for collaboration
-- Propose research and practice initiatives
-- Explore interdisciplinary partnerships
-- Share academic and professional opportunities
-- Develop joint publications, projects, workshops, or events
-
-[Explore Collaborations](https://github.com/FRAMily-Community/framily-community)
-
-### 🌍 General Discussion
-
-A space for open conversations about FRAM, resilience engineering, complexity, socio-technical systems, Safety-II, and related topics.
-
-Use this category for conversations that do not fit clearly into one of the more specific categories, including general questions, reflections, community topics, and broader discussions about the development and application of FRAM.
-
-[Join the General Discussion](https://github.com/FRAMily-Community/framily-community)
-
-### 💡 Ideas & Future Directions
-
-Share ideas, proposals, visions, and emerging topics that may help shape the future of FRAM and the FRAMily community.
-
-Possible topics include:
-
-- New theoretical and methodological developments
-- Quantitative and computational FRAM
-- Simulation and dynamic modelling
-- Data-supported and AI-enhanced FRAM
-- New application domains
-- Community infrastructure and governance
-- Future learning formats and events
-- New software concepts and digital resources
-
-This category is intended for open exploration. Ideas do not need to be fully developed before they are shared.
-
-[Share Ideas and Future Directions](https://github.com/FRAMily-Community/framily-community)
-
-### 🧩 Model Showcase
-
-Share FRAM models, case studies, applications, and practical examples from research, education, and professional practice.
-
-Use this category to:
-
-- Present a FRAM model or modelling approach
-- Share an application or case study
-- Request feedback from the community
-- Discuss modelling choices and experiences
-- Demonstrate how FRAM has been used in a particular domain
-- Connect a model with related software, publications, or learning resources
-
-When sharing a model, please provide sufficient context about its purpose, application domain, authorship, status, and limitations.
-
-[Explore the Model Showcase](https://github.com/FRAMily-Community/framily-community)
-
-### 🔬 Research
-
-Discuss publications, ongoing studies, methodologies, research questions, and emerging scientific developments related to FRAM.
-
-Relevant topics may include:
-
-- New FRAM publications and working papers
-- Ongoing studies and research projects
-- Theoretical and methodological questions
-- Qualitative and quantitative approaches
-- Case study design and evaluation
-- Connections with resilience engineering, Safety-II, systems thinking, and related approaches
-- Opportunities for scientific exchange and peer learning
-
-Please share links to openly accessible publications, preprints, datasets, software, or other research outputs whenever possible.
-
-[Explore Research Discussions](https://github.com/FRAMily-Community/framily-community)
-
-### 💻 Software & Tools
-
-Ask questions and exchange knowledge about FRAM-related software, modelling tools, documentation, technical workflows, and development activities.
-
-Use this category for:
-
-- Software questions and technical support
-- Installation and compatibility issues
-- Documentation and tutorials
-- Feature suggestions
-- Tool demonstrations
-- Data formats and interoperability
-- Development ideas
-- Community-maintained utilities and workflows
-
-For reproducible technical questions, please include the tool name, version, operating system, relevant files, and any error messages where appropriate.
-
-[Discuss Software and Tools](https://github.com/FRAMily-Community/framily-community)
-
-### 🎓 Teaching & Learning
-
-Ask questions and share experiences and resources related to learning and teaching FRAM.
-
-Relevant contributions include:
-
-- Introductory questions about FRAM
-- Tutorials and learning pathways
-- Teaching materials and presentations
-- Exercises and example cases
-- Course and workshop formats
-- Summer School resources
-- Guidance for students and new users
-- Experiences from teaching FRAM in different disciplines
-
-This is a question-and-answer category. When a response resolves a question, the discussion author can mark that response as the accepted answer so that it remains easy to find for future learners.
-
-[Explore Teaching and Learning](https://github.com/FRAMily-Community/framily-community)
+💬 **Community Forum:**  
+https://github.com/FRAMily-Community/framily-community/discussions
 
 ---
 
