@@ -64,8 +64,6 @@ You are welcome to:
 
 Before starting a new discussion, please check whether a similar topic already exists. Choose the category that best matches the main purpose of the contribution and use a clear, specific title.
 
-[View All Discussions](https://github.com/FRAMily-Community/framily-community)
-
 ---
 
 ## Community Principles
