@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="FRAMigo.png" alt="FRAMigo" width="500">
+</p>
 # FRAMily Community
 
 ### Community discussions, announcements, events, and collaboration within the international FRAM community.
