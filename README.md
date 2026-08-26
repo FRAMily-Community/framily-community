@@ -37,6 +37,23 @@ https://github.com/FRAMily-Community/framily-community/discussions
 The FRAMily community supports knowledge exchange, shared learning, collaboration, and the responsible development and application of FRAM through activities such as:
 
 - **FRAMily Meetings**
+
+The FRAMily Meetings are the annual international gathering of researchers and practitioners interested in the development and application of FRAM and related resilience-based approaches. Since the first meeting in 2007, the FRAMily community has provided a collaborative forum for sharing research results, practical experiences, methodological developments, software tools, and case studies from a wide range of application domains.
+
+The meetings promote open discussion and exchange between academia and industry, bringing together experts from engineering, healthcare, transportation, safety science, organisational studies, and other disciplines concerned with understanding and managing complexity. Over the years, FRAMily Meetings have been hosted in numerous countries across Europe and Asia, reflecting the growing international reach of the FRAM community.
+
+**Next Meeting**: TBA
+
+**Last Meetings**:
+
+FRAMily Meeting & Workshop 2026 in Munich hosted by Niklas Grabbe at TUM: https://framily-meeting.lfe.ed.tum.de
+
+FRAMily Meeting & Workshop 2025 in Delft hosted by Arie Adriaensen at TU Delft: https://www.aanmelder.nl/framily-safetyii-2025/home
+
+FRAMily Meeting & Workshop 2024 in Lund hosted by Anthony Smoker & Rogier Woltjer at Lund University:: https://functionalresonance.com/framily-2024/
+
+More information at: https://functionalresonance.com/framily-meetings/
+
 - **FRAM Fridays**
 - **FRAM Summer School**
 - Research and practice collaborations
