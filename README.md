@@ -37,7 +37,9 @@ https://github.com/FRAMily-Community/framily-community/discussions
 The FRAMily community supports knowledge exchange, shared learning, collaboration, and the responsible development and application of FRAM through activities such as:
 
 - **FRAMily Meetings**
-
+<p align="center">
+  <img src="Meetings.png" alt="Meetings Overview" width="500">
+</p>
 The FRAMily Meetings are the annual international gathering of researchers and practitioners interested in the development and application of FRAM and related resilience-based approaches. Since the first meeting in 2007, the FRAMily community has provided a collaborative forum for sharing research results, practical experiences, methodological developments, software tools, and case studies from a wide range of application domains.
 
 The meetings promote open discussion and exchange between academia and industry, bringing together experts from engineering, healthcare, transportation, safety science, organisational studies, and other disciplines concerned with understanding and managing complexity. Over the years, FRAMily Meetings have been hosted in numerous countries across Europe and Asia, reflecting the growing international reach of the FRAM community.
