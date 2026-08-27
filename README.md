@@ -135,6 +135,8 @@ Publicly available Summer School resources may be shared through the [FRAM Learn
 
 > Details, dates, formats, and participation conditions may vary between editions. Please consult the official FRAMily announcements and event pages for current information.
 
+**Next Summer School**: TBA
+
 **Last Summer Schools**:
 
 The first Summer School on Systems Modelling was hosted by Niklas Grabbe at TUM: https://sysmod-summerschool.lfe.ed.tum.de/
