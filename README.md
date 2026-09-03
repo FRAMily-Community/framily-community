@@ -101,16 +101,28 @@ More information at: https://functionalresonance.com/framily-meetings/
 
 FRAM Fridays are bimonthly online community sessions for informal knowledge exchange and discussion. They provide a regular and accessible format for continuing conversations between the annual FRAMily Meetings.
 
-**Next FRAM Friday**: TBA; Link: TBA
+Held every two months, these are free one-hour sessions designed to strengthen connections within the existing FRAMily community, and to open the door to researchers, students, scholars, and industry practitioners who use FRAM but may not have been part of annual FRAMily gatherings.
 
-The sessions may include:
+Whether you're a seasoned FRAM practitioner, starting to explore the method, or looking for a great idea for a university project/thesis/dissertation, this is a space to learn, share, and connect with others thinking about complex systems and performance variability.
 
-- Invited presentations
-- Research and practice updates
-- Software, model or case study demonstrations
-- Emerging ideas and methodological developments
-- Open community discussions
-- Opportunities to connect with potential collaborators
+**Format:** Online, 1 hour, 4th Friday every 2 months
+
+**Hosted by:** James Norman
+
+**Next FRAM Friday:** September 25, 2026 at 13:00 CET; Link: TBA
+
+What to expect:
+
+- Research presentations
+- Paper discussions
+- Methodological deep-dives
+- Software demonstrations
+- FRAM model "surgeries" (bring your model, get feedback!)
+- Project updates
+- Student & early-career researcher spotlights
+- Real-world FRAM applications from industry
+
+Interested in joining or presenting at a future session? Reach out directly — we'd love to have you!
 
 All FRAM Friday sessions are recorded and will be uploaded to the [FRAMily Youtube Channel](https://www.youtube.com/@framily-community)
 
